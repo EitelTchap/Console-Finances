@@ -5,7 +5,7 @@ Financial records analysis
 
 This particular project is a website application that uses JavaScript to analyse provided financial records of a company. The provided analysis outputs can be found in the console of the browser inspect tool.
 
-URL: https://eiteltchap.github.io/console-finances/
+URL: https://eiteltchap.github.io/Console-Finances/
 
 ## Installation
 
